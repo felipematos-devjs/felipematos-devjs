@@ -36,11 +36,11 @@ I have a passion for programming and I love connecting with people, so feel free
 </p>
 </blockquote>
 
-<h2>Current Project</h2>
-<blockquote>
-<p>
-Javascript powered particle system for web devs (in the making...)
-</p>
-</blockquote>
-
+<h2>Some of my websites!</h2>
+<span align="left" display= "inline">
+  <span witdh = 120 display= "inline">
+    <a href="https://fm-todotoday.netlify.app"><img src="https://user-images.githubusercontent.com/120526365/214430515-4f0a1d73-296e-4bc8-a9a7-be17992ad62a.svg"           height=150></a>
+  </span>
+  
+</span>
 <h1>Enjoy the repos!</h1>
