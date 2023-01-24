@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi there,
+### I'm Felipe, a Frontend dev in the making👋
 
-<!--
-**felipematos-devjs/felipematos-devjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github-readme-stats.vercel.app/api?username=felipematos-devjs&count_private=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipematos-devjs">
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
