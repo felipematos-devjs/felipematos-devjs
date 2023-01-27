@@ -41,6 +41,18 @@ I have a passion for programming and I love connecting with people, so feel free
   <span witdh = 120 display= "inline">
     <a href="https://fm-todotoday.netlify.app"><img src="https://user-images.githubusercontent.com/120526365/214430515-4f0a1d73-296e-4bc8-a9a7-be17992ad62a.svg"           height=150></a>
   </span>
-  
 </span>
+
+<h2>My certificates!</h2>
+<h3>Meta Frontend Developer Professional Certificate - Current Progress: 33% (3/9 courses)</h3>
+<ul>
+<li><a href="https://coursera.org/share/87ec24fe0889823055327de39b73d9e7">1 - Introduction to Frontend Development</a></li>
+<li><a href="https://coursera.org/share/a80885e74f4472430d6a890135b7d1f5">2 - Programming with Javascript</a></li>
+<li><a href="https://coursera.org/share/d45d3aeb6e5d75229fcaacfbf210dddc">3 - Version Control</a></li>
+</ul>
+
+<h3>FreecodeCamp</h3>
+<ul>
+<li><a href="https://www.freecodecamp.org/certification/fcc48f8e05f-775a-422b-928c-03b9ae7ae568/responsive-web-design">1 - Responsive Web Design Certification</a></li>
+</ul>
 <h1>Enjoy the repos!</h1>
