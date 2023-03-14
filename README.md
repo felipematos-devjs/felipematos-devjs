@@ -44,7 +44,7 @@ I have a passion for programming and I love connecting with people, so feel free
 </span>
 
 <h2>My certificates!</h2>
-<h3>Meta Frontend Developer Professional Certificate - Current Progress: 33% (3/9 courses)</h3>
+<h3>Meta Frontend Developer Professional Certificate - Current Progress: 44% (4/9 courses)</h3>
 <ul>
 <li><a href="https://coursera.org/share/87ec24fe0889823055327de39b73d9e7">1 - Introduction to Frontend Development</a></li>
 <li><a href="https://coursera.org/share/a80885e74f4472430d6a890135b7d1f5">2 - Programming with Javascript</a></li>
