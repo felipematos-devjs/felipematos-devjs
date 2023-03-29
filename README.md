@@ -8,13 +8,21 @@
 
 <h2>Languages I'm comfortable with!</h2>
 <div style="display: flex;">
-  <img width=50 height= 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="border: 1px solid black;"/>
-  <img width=50 height= 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img width=50 height= 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img width=75 height= 75 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" style="border: 1px solid black;"/>
+  <img width=75 height= 75 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+  <img width=75 height= 75 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img width=75 height= 75 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+</div>
+
+<h2>I'm currently studying: </h2>
+<div style="display: flex;">
+  <img width=75 height= 75 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="border: 1px solid black;"/>
+  <img width=75 height= 75 src="https://user-images.githubusercontent.com/120526365/228686631-708416b7-298b-4dae-b75d-49fc70149ebd.svg" />
 </div>
   
 <h2>My socials</h2>
 <div>
+  <a href="https://www.linkedin.com/in/felipe-matos-94405526a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/FelipeJsDev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://www.instagram.com/felipejsdev1/?igshid=ZDdkNTZiNTM%3D"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://leetcode.com/FelipeMatosDev/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
@@ -36,10 +44,12 @@ I have a passion for programming and I love connecting with people, so feel free
 </p>
 </blockquote>
 
-<h2>Some of my websites!</h2>
+<h2>Websites I made!</h2>
 <span align="left" display= "inline">
   <span witdh = 120 display= "inline">
     <a href="https://fm-todotoday.netlify.app"><img src="https://user-images.githubusercontent.com/120526365/214430515-4f0a1d73-296e-4bc8-a9a7-be17992ad62a.svg"           height=150></a>
+    <a href="https://fm-todotoday.netlify.app"><img src="https://user-images.githubusercontent.com/120526365/228684786-dcead5f7-009e-4bc3-b15c-5b8a2e61778b.svg"           height=150></a>
+    
   </span>
 </span>
 
