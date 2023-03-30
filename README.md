@@ -17,7 +17,7 @@
 <h2>I'm currently studying: </h2>
 <div style="display: flex;">
   <img width=75 height= 75 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="border: 1px solid black;"/>
-  <img width=75 height= 75 src="https://user-images.githubusercontent.com/120526365/228686631-708416b7-298b-4dae-b75d-49fc70149ebd.svg" />
+  <img width=75 height= 75 src="https://user-images.githubusercontent.com/120526365/228884758-862729cd-49a5-42f6-bc13-a16a6311964b.svg" />
 </div>
   
 <h2>My socials</h2>
