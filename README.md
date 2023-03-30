@@ -47,8 +47,8 @@ I have a passion for programming and I love connecting with people, so feel free
 <h2>Websites I made!</h2>
 <span align="left" display= "inline">
   <span witdh = 120 display= "inline">
-    <a href="https://fm-todotoday.netlify.app"><img src="https://user-images.githubusercontent.com/120526365/214430515-4f0a1d73-296e-4bc8-a9a7-be17992ad62a.svg"           height=150></a>
-    <a href="https://fm-todotoday.netlify.app"><img src="https://user-images.githubusercontent.com/120526365/228684786-dcead5f7-009e-4bc3-b15c-5b8a2e61778b.svg"           height=150></a>
+    <a target = "_blank" href="https://fm-todotoday.netlify.app"><img src="https://user-images.githubusercontent.com/120526365/214430515-4f0a1d73-296e-4bc8-a9a7-be17992ad62a.svg"           height=150></a>
+    <a target = "_blank" href="https://weathertick.netlify.app/"><img src="https://user-images.githubusercontent.com/120526365/228684786-dcead5f7-009e-4bc3-b15c-5b8a2e61778b.svg"           height=150></a>
     
   </span>
 </span>
