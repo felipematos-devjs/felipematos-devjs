@@ -1,4 +1,4 @@
-<h1>Hi there! I'm Felipe, a Frontend dev in the making👋</h1>
+<h1>Hi there! I'm Felipe, a Frontend developer!</h1>
 
 <h2>My current stats!</h2>
 <div style="display: flex; justify-content: space-around;">
@@ -6,18 +6,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipematos-devjs&theme=dracula" height=200>
 </div>
 
-<h2>Languages I'm comfortable with!</h2>
+<h2>Programming Languages I work With!</h2>
 <div style="display: flex;">
   <img width=75 height= 75 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" style="border: 1px solid black;"/>
   <img width=75 height= 75 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   <img width=75 height= 75 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img width=75 height= 75 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-</div>
-
-<h2>I'm currently studying: </h2>
-<div style="display: flex;">
   <img width=75 height= 75 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="border: 1px solid black;"/>
   <img width=75 height= 75 src="https://user-images.githubusercontent.com/120526365/228884758-862729cd-49a5-42f6-bc13-a16a6311964b.svg" />
+  <img width=75 height= 75 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 </div>
   
 <h2>My socials</h2>
@@ -49,7 +45,8 @@ I have a passion for programming and I love connecting with people, so feel free
   <span witdh = 120 display= "inline">
     <a target = "_blank" href="https://fm-todotoday.netlify.app"><img src="https://user-images.githubusercontent.com/120526365/214430515-4f0a1d73-296e-4bc8-a9a7-be17992ad62a.svg"           height=150></a>
     <a target = "_blank" href="https://weathertick.netlify.app/"><img src="https://user-images.githubusercontent.com/120526365/228684786-dcead5f7-009e-4bc3-b15c-5b8a2e61778b.svg"           height=150></a>
-    
+        <a target = "_blank" href="https://fm-darkmode.netlify.app"><img src="https://user-images.githubusercontent.com/120526365/232139759-14fc7869-0547-4cbd-a4d4-80f2cab1e0b3.svg"           height=150></a>
+
   </span>
 </span>
 
