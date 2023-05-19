@@ -51,12 +51,13 @@ I have a passion for programming and I love connecting with people, so feel free
 </span>
 
 <h2>My certificates!</h2>
-<h3>Meta Frontend Developer Professional Certificate - Current Progress: 44% (4/9 courses)</h3>
+<h3>Meta Frontend Developer Professional Certificate - Current Progress: 55% (5/9 courses)</h3>
 <ul>
 <li><a href="https://coursera.org/share/87ec24fe0889823055327de39b73d9e7">1 - Introduction to Frontend Development</a></li>
 <li><a href="https://coursera.org/share/a80885e74f4472430d6a890135b7d1f5">2 - Programming with Javascript</a></li>
 <li><a href="https://coursera.org/share/d45d3aeb6e5d75229fcaacfbf210dddc">3 - Version Control</a></li>
 <li><a href="https://coursera.org/share/59a5e3e62b6e05a36c357d2e3630712d">4 - HTML/CSS in Depth</a></li>
+<li><a href="https://www.coursera.org/account/accomplishments/certificate/KY5ZTSZBFD3V">5 - React Basics</a></li>
 </ul>
 
 <h3>FreecodeCamp</h3>
