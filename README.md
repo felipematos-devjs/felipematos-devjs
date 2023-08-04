@@ -1,11 +1,5 @@
 <h1>Hi there! I'm Felipe, a Frontend developer!</h1>
 
-<h2>My current stats!</h2>
-<div style="display: flex; justify-content: space-around;">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipematos-devjs&count_private=true&theme=dracula&show_icons=true" height=200>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipematos-devjs&theme=dracula" height=200>
-</div>
-
 <h2>Programming Languages I work With!</h2>
 <div style="display: flex;">
   <img width=75 height= 75 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" style="border: 1px solid black;"/>
@@ -15,7 +9,12 @@
   <img width=75 height= 75 src="https://user-images.githubusercontent.com/120526365/228884758-862729cd-49a5-42f6-bc13-a16a6311964b.svg" />
   <img width=75 height= 75 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 </div>
-  
+
+<br />
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipematos-devjs&theme=dracula" height=200>
+</div>
+
 <h2>My socials</h2>
 <div>
   <a href="https://www.linkedin.com/in/felipe-matos-94405526a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -51,13 +50,15 @@ I have a passion for programming and I love connecting with people, so feel free
 </span>
 
 <h2>My certificates!</h2>
-<h3>Meta Frontend Developer Professional Certificate - Current Progress: 55% (5/9 courses)</h3>
+<h3>Meta Frontend Developer Professional Certificate - Current Progress: 66% (6/9 courses)</h3>
 <ul>
 <li><a href="https://coursera.org/share/87ec24fe0889823055327de39b73d9e7">1 - Introduction to Frontend Development</a></li>
 <li><a href="https://coursera.org/share/a80885e74f4472430d6a890135b7d1f5">2 - Programming with Javascript</a></li>
 <li><a href="https://coursera.org/share/d45d3aeb6e5d75229fcaacfbf210dddc">3 - Version Control</a></li>
 <li><a href="https://coursera.org/share/59a5e3e62b6e05a36c357d2e3630712d">4 - HTML/CSS in Depth</a></li>
 <li><a href="https://www.coursera.org/account/accomplishments/certificate/KY5ZTSZBFD3V">5 - React Basics</a></li>
+<li><a href="https://www.coursera.org/account/accomplishments/certificate/2MPZNKFSY36J">6 - Advanced React</a></li>
+  
 </ul>
 
 <h3>FreecodeCamp</h3>
