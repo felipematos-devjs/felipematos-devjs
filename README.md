@@ -38,13 +38,13 @@
 <h2>My certificates!</h2>
 <h3>Meta Frontend Developer Professional Certificate - Current Progress: 77% (7/9 courses finished)</h3>
 <ul>
-<li><a href="https://coursera.org/share/87ec24fe0889823055327de39b73d9e7">1 - Introduction to Frontend Development</a></li>
-<li><a href="https://coursera.org/share/a80885e74f4472430d6a890135b7d1f5">2 - Programming with Javascript</a></li>
-<li><a href="https://coursera.org/share/d45d3aeb6e5d75229fcaacfbf210dddc">3 - Version Control</a></li>
-<li><a href="https://coursera.org/share/59a5e3e62b6e05a36c357d2e3630712d">4 - HTML/CSS in Depth</a></li>
+<li><a href="https://www.coursera.org/account/accomplishments/certificate/VEJHSAY89ST5">1 - Introduction to Frontend Development</a></li>
+<li><a href="https://www.coursera.org/account/accomplishments/certificate/UP2YW7AEW6CF">2 - Programming with Javascript</a></li>
+<li><a href="https://www.coursera.org/account/accomplishments/certificate/5PSD6BXEKEJR">3 - Version Control</a></li>
+<li><a href="https://www.coursera.org/account/accomplishments/certificate/3VVZV8L4ANPL">4 - HTML/CSS in Depth</a></li>
 <li><a href="https://www.coursera.org/account/accomplishments/certificate/KY5ZTSZBFD3V">5 - React Basics</a></li>
 <li><a href="https://www.coursera.org/account/accomplishments/certificate/2MPZNKFSY36J">6 - Advanced React</a></li>
-<li><a href="https://coursera.org/share/8fa011cbbb80b28ab6ce85e4b4fcfde0">7 - Introduction to UX/UI Design</a></li>
+<li><a href="https://www.coursera.org/account/accomplishments/certificate/3VVZV8L4ANPL">7 - Principles of UX/UI Design</a></li>
   
 </ul>
 
