@@ -25,6 +25,34 @@
   <a href="mailto:felipematos.devjs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
+<h2>Websites I made!</h2>
+<span align="left" display= "inline">
+  <span witdh = 120 display= "inline">
+    <a target = "_blank" href="https://fm-todotoday.netlify.app"><img src="https://user-images.githubusercontent.com/120526365/214430515-4f0a1d73-296e-4bc8-a9a7-be17992ad62a.svg"           height=150></a>
+    <a target = "_blank" href="https://weathertick.netlify.app/"><img src="https://user-images.githubusercontent.com/120526365/228684786-dcead5f7-009e-4bc3-b15c-5b8a2e61778b.svg"           height=150></a>
+        <a target = "_blank" href="https://fm-darkmode.netlify.app"><img src="https://user-images.githubusercontent.com/120526365/232139759-14fc7869-0547-4cbd-a4d4-80f2cab1e0b3.svg"           height=150></a>
+
+  </span>
+</span>
+
+<h2>My certificates!</h2>
+<h3>Meta Frontend Developer Professional Certificate - Current Progress: 77% (7/9 courses finished)</h3>
+<ul>
+<li><a href="https://coursera.org/share/87ec24fe0889823055327de39b73d9e7">1 - Introduction to Frontend Development</a></li>
+<li><a href="https://coursera.org/share/a80885e74f4472430d6a890135b7d1f5">2 - Programming with Javascript</a></li>
+<li><a href="https://coursera.org/share/d45d3aeb6e5d75229fcaacfbf210dddc">3 - Version Control</a></li>
+<li><a href="https://coursera.org/share/59a5e3e62b6e05a36c357d2e3630712d">4 - HTML/CSS in Depth</a></li>
+<li><a href="https://www.coursera.org/account/accomplishments/certificate/KY5ZTSZBFD3V">5 - React Basics</a></li>
+<li><a href="https://www.coursera.org/account/accomplishments/certificate/2MPZNKFSY36J">6 - Advanced React</a></li>
+<li><a href="https://coursera.org/share/8fa011cbbb80b28ab6ce85e4b4fcfde0">7 - Introduction to UX/UI Design</a></li>
+  
+</ul>
+
+<h3>FreecodeCamp</h3>
+<ul>
+<li><a href="https://www.freecodecamp.org/certification/fcc48f8e05f-775a-422b-928c-03b9ae7ae568/responsive-web-design">1 - Responsive Web Design Certification</a></li>
+</ul>
+
 <h2>A little about me</h2>
 <blockquote>
 <p>
@@ -39,30 +67,4 @@ I have a passion for programming and I love connecting with people, so feel free
 </p>
 </blockquote>
 
-<h2>Websites I made!</h2>
-<span align="left" display= "inline">
-  <span witdh = 120 display= "inline">
-    <a target = "_blank" href="https://fm-todotoday.netlify.app"><img src="https://user-images.githubusercontent.com/120526365/214430515-4f0a1d73-296e-4bc8-a9a7-be17992ad62a.svg"           height=150></a>
-    <a target = "_blank" href="https://weathertick.netlify.app/"><img src="https://user-images.githubusercontent.com/120526365/228684786-dcead5f7-009e-4bc3-b15c-5b8a2e61778b.svg"           height=150></a>
-        <a target = "_blank" href="https://fm-darkmode.netlify.app"><img src="https://user-images.githubusercontent.com/120526365/232139759-14fc7869-0547-4cbd-a4d4-80f2cab1e0b3.svg"           height=150></a>
-
-  </span>
-</span>
-
-<h2>My certificates!</h2>
-<h3>Meta Frontend Developer Professional Certificate - Current Progress: 66% (6/9 courses)</h3>
-<ul>
-<li><a href="https://coursera.org/share/87ec24fe0889823055327de39b73d9e7">1 - Introduction to Frontend Development</a></li>
-<li><a href="https://coursera.org/share/a80885e74f4472430d6a890135b7d1f5">2 - Programming with Javascript</a></li>
-<li><a href="https://coursera.org/share/d45d3aeb6e5d75229fcaacfbf210dddc">3 - Version Control</a></li>
-<li><a href="https://coursera.org/share/59a5e3e62b6e05a36c357d2e3630712d">4 - HTML/CSS in Depth</a></li>
-<li><a href="https://www.coursera.org/account/accomplishments/certificate/KY5ZTSZBFD3V">5 - React Basics</a></li>
-<li><a href="https://www.coursera.org/account/accomplishments/certificate/2MPZNKFSY36J">6 - Advanced React</a></li>
-  
-</ul>
-
-<h3>FreecodeCamp</h3>
-<ul>
-<li><a href="https://www.freecodecamp.org/certification/fcc48f8e05f-775a-422b-928c-03b9ae7ae568/responsive-web-design">1 - Responsive Web Design Certification</a></li>
-</ul>
 <h1>Enjoy the repos!</h1>
