@@ -56,11 +56,11 @@
 <h2>A little about me</h2>
 <blockquote>
 <p>
-I'm Sophomore CS student looking to become a frontend developer! 
+I'm Sophomore CS student looking to become a frontend developer! My goal is to specialize in 3D interactive websites using WEBGL.
 </p>
 <p>
 I love websites that feel alive, so I'm aiming to always put something 
-the user can interact with and have some fun in my websites, such as particles
+the user can interact with and have some fun in my websites, such as particles, 3D, and drawings on canvas!
 </p>
 <p>
 I have a passion for programming and I love connecting with people, so feel free to contact me if you want 😁
