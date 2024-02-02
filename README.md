@@ -65,7 +65,7 @@
 <ul>
 <li><a href="https://threejs-journey.com/">Three.js Journey</a></li>
 <li><a href="https://simondev.teachable.com/">GLSL Shaders from Scratch</a></li>
-<li><a href="https://simondev.teachable.com/">Game Math</a></li>
+<li><a href="https://simondev.teachable.com/">Game Math Explained Simply</a></li>
 </ul>
 
 <h2>A little about me</h2>
