@@ -1,6 +1,6 @@
-<h1>Hi there! I'm Felipe, a Creative developer!</h1>
-
-<h2>Programming Languages I work With!</h2>
+<h1>Hi there! I'm Felipe, a Creative web developer!</h1>
+<p><b>I create responsive 2D and 3D websites!</b></p>
+<h2>Programming Languages:</h2>
 <div style="display: flex;">
   <img width=75 height= 75 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" style="border: 1px solid black;"/>
   <img width=75 height= 75 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
@@ -14,7 +14,7 @@
 
 <br />
 
-<h2>My socials</h2>
+<h2>Socials</h2>
 <div>
   <a href="https://www.linkedin.com/in/felipe-matos-94405526a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/FelipeJsDev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
@@ -24,8 +24,7 @@
   <a href="mailto:felipematos.devjs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
-<h2>Some of my websites</h2>
-<br />
+<h2>Projects</h2>
 <div>
 
   <div display= "flex">
@@ -40,7 +39,7 @@
   <br />
 
 </div>
-<h2>My certificates!</h2>
+<h2>Certificates</h2>
 <h3>Meta Frontend Developer Professional Certificate - Complete! </h3>
 <ul>
 <li><a href="https://coursera.org/share/9012ab66c59f0d0c96ea45e411e95def"><b>Meta Frontend Developer Certificate</b></a></li>
