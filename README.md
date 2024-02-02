@@ -42,7 +42,7 @@
 <h2>Certificates</h2>
 <h3>Meta Frontend Developer Professional Certificate - Complete! </h3>
 <ul>
-<li><a href="https://coursera.org/share/9012ab66c59f0d0c96ea45e411e95def"><b>Meta Frontend Developer Certificate</b></a></li>
+<li><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/XAZ5PCPURDSC"><b>Meta Frontend Developer Certificate</b></a></li>
   <br />
 <li><a href="https://www.coursera.org/account/accomplishments/certificate/VEJHSAY89ST5">1 - Introduction to Frontend Development</a></li>
 <li><a href="https://www.coursera.org/account/accomplishments/certificate/UP2YW7AEW6CF">2 - Programming with Javascript</a></li>
