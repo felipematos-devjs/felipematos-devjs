@@ -53,8 +53,10 @@
 <li><a href="https://www.coursera.org/account/accomplishments/certificate/3VVZV8L4ANPL">7 - Principles of UX/UI Design</a></li>
 <li><a href="https://www.coursera.org/account/accomplishments/certificate/WQ7RAG3CCJJ6">8 - Frontend Developer Capstone</a></li>
 <li><a href="https://www.coursera.org/account/accomplishments/certificate/XXSDZ4Y6BQTJ">9 - Coding Interview Preparation</a></li>
-  
 </ul>
+
+<h3>Three.js Journey! </h3>
+<li><a href="https://threejs-journey.com/](https://threejs-journey.com/certificate/view/26494">Three.js Journey</a></li>
 
 <h3>FreecodeCamp</h3>
 <ul>
@@ -62,7 +64,6 @@
 </ul>
 <h3>In Progress</h3>
 <ul>
-<li><a href="https://threejs-journey.com/">Three.js Journey</a></li>
 <li><a href="https://simondev.teachable.com/">GLSL Shaders from Scratch</a></li>
 <li><a href="https://simondev.teachable.com/">Game Math Explained Simply</a></li>
 </ul>
