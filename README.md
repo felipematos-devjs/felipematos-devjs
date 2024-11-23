@@ -62,6 +62,15 @@
 <ul>
 <li><a href="https://www.freecodecamp.org/certification/fcc48f8e05f-775a-422b-928c-03b9ae7ae568/responsive-web-design">1 - Responsive Web Design Certification</a></li>
 </ul>
+
+<h3>Other</h3>
+<ul>
+<li><a href="https://www.udemy.com/certificate/UC-2eb1ddbf-1b52-4b6b-ab9c-7eb2b0ab8bc2/">The Complete Node.Js Developer Course</a></li>
+<li><a href="https://www.udemy.com/certificate/UC-5b5cb7ba-923f-4f76-a4c6-d61f6dc7114e/">Understanding TypeScript</a></li>
+</ul>
+
+
+
 <h3>In Progress</h3>
 <ul>
 <li><a href="https://simondev.teachable.com/">GLSL Shaders from Scratch</a></li>
