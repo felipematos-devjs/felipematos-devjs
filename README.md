@@ -57,7 +57,7 @@
 </ul>
 
 <h3>Three.js Journey! </h3>
-<li><a href="https://threejs-journey.com/](https://threejs-journey.com/certificate/view/26494">Three.js Journey</a></li>
+<li><a href="https://threejs-journey.com/certificate/view/26494">Three.js Journey</a></li>
 
 <h3>FreecodeCamp</h3>
 <ul>
