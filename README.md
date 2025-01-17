@@ -31,10 +31,11 @@
     <a target = "_blank" href="https://fm-todotoday.netlify.app"><img src="https://user-images.githubusercontent.com/120526365/214430515-4f0a1d73-296e-4bc8-a9a7-be17992ad62a.svg"           width=150 height=150></a>
     <a target = "_blank" href="https://weathertick.netlify.app/"><img src="https://github.com/felipematos-devjs/felipematos-devjs/assets/120526365/ec8c6f45-99c5-412e-905a-43821ee7cf13"           width= 150 height=150></a>
     <a target = "_blank" href="https://fm-darkmode.netlify.app"><img src="https://user-images.githubusercontent.com/120526365/232139759-14fc7869-0547-4cbd-a4d4-80f2cab1e0b3.svg"            width=150 height=150></a>
-     <a target = "_blank" href="https://fmpixelcat.netlify.app/"><img src="https://github.com/felipematos-devjs/felipematos-devjs/assets/120526365/c08f9dcd-c1a1-4d60-aa32-902f747940b1"           width=150 height=150></a>
+    <a target = "_blank" href="https://fmpixelcat.netlify.app/"><img src="https://github.com/felipematos-devjs/felipematos-devjs/assets/120526365/c08f9dcd-c1a1-4d60-aa32-902f747940b1"           width=150 height=150></a>
     <a target = "_blank" href="https://fm-old-tv.netlify.app/"><img src="https://github.com/felipematos-devjs/felipematos-devjs/assets/120526365/aba5dcb3-ef82-410e-8847-e5443d9ba71f"           width=150 height=150></a>
     <a target = "_blank" href="https://fm-voxel-editor.netlify.app/"><img src="https://github.com/felipematos-devjs/felipematos-devjs/assets/120526365/6a5e40e3-9c92-42a8-9d1b-e870680d19d2"           width=150 height=150></a>
-  
+    <a target = "_blank" href="https://fm-r3f-studies.netlify.app/"><img src="https://github.com/user-attachments/assets/c01c494f-533d-4ae5-b9c9-0effe7de59c6"           width=150 height=150></a>
+
   </div>
   <br />
 
