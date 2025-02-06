@@ -18,9 +18,6 @@
 <div>
   <a href="https://www.linkedin.com/in/felipe-matos-94405526a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/FelipeJsDev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.instagram.com/felipejsdev1/?igshid=ZDdkNTZiNTM%3D"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://leetcode.com/FelipeMatosDev/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
-  <a href="https://codepen.io/FelipeMatosDev"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
   <a href="mailto:felipematos.devjs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
